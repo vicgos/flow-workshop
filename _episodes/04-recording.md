@@ -1,7 +1,7 @@
 ---
 title: "Recording data with FLOW"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 20
 questions:
 - "How do you start a recording with FLOW?"
 objectives:
