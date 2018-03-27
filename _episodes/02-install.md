@@ -7,6 +7,6 @@ questions:
 objectives:
 - "You will be able to download and install the FLOW sensor into a smartphone."
 keypoints:
-- "The FLOW app needs to be installed in Android as "from an Unknown Source"."
+- "The FLOW app needs to be installed in Android as from an Unknown Source."
 ---
 
