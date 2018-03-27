@@ -1,12 +1,12 @@
 ---
-title: "Initiating and pairing FLOW to a smartphone"
+title: "Initiating the FLOW app"
 teaching: 5
 exercises: 10
 questions:
-- "How do you get FLOW ready for recording?"
+- "How do you install FLOW in your smartphone?"
 objectives:
-- "You will be able to pair a FLOW sensor to a smartphone."
+- "You will be able to download and install the FLOW sensor into a smartphone."
 keypoints:
-- "FLOW connects via Bluetooth with an Android smartphone through the FLOW app."
+- "The FLOW app needs to be installed in Android as "from an Unknown Source"."
 ---
 
