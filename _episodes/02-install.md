@@ -1,5 +1,5 @@
 ---
-title: "Initiating the FLOW app"
+title: "Installing the FLOW app"
 teaching: 5
 exercises: 10
 questions:
