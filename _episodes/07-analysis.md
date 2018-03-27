@@ -1,7 +1,7 @@
 ---
 title: "Analysis data from FLOW with MATLAB"
 teaching: 0
-exercises: 30
+exercises: 40
 questions:
 - "How do you import data form FLOW into MATLAB?"
 objectives:
