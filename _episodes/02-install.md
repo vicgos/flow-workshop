@@ -1,12 +1,12 @@
 ---
-title: "Introduction"
-teaching: 40
-exercises: 0
+title: "Initiating and pairing FLOW to a smartphone"
+teaching: 5
+exercises: 10
 questions:
-- "Key question"
+- "How do you get FLOW ready for recording?"
 objectives:
-- "First objective."
+- "You will be able to pair a FLOW sensor to a smartphone."
 keypoints:
-- "First key point."
+- "FLOW connects via Bluetooth with an Android smartphone through the FLOW app."
 ---
 
