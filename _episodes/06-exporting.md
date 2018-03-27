@@ -1,7 +1,7 @@
 ---
 title: "Finding and exporting data from FLOW"
-teaching: 10
-exercises: 10
+teaching: 0
+exercises: 15
 questions:
 - "Where do you find FLOW's recorded data in your smartphone?"
 objectives:
