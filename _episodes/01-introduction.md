@@ -3,9 +3,9 @@ title: "Introduction"
 teaching: 40
 exercises: 0
 questions:
-- "Key question"
+- "What is FLOW?"
 objectives:
-- "First objective."
+- "Familiarize with FLOW, breathing patterns basics, and potential applications."
 keypoints:
-- "First key point."
+- "FLOW is  a wearable breathing monitor that gives you the complete picture of your breathing activity."
 ---
