@@ -1,6 +1,6 @@
 ---
 title: "Installing the FLOW app"
-teaching: 5
+teaching: 10
 exercises: 10
 questions:
 - "How do you install FLOW in your smartphone?"
